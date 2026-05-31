@@ -6,8 +6,8 @@ Algorithm practice notes — recording my thought process, mistakes, and solutio
 
 ```
 problems/
-  001-two-sum.py
-  002-xxx.py
+  001-two-sum.md
+  009-palindrome-number.md
   ...
 ```
 
@@ -23,4 +23,5 @@ Each file contains:
 
 | # | Problem | Difficulty | Approach | Date |
 |---|---------|-----------|----------|------|
-| 1 | [Two Sum](problems/001-two-sum.py) | Easy | Hash Map | 2026-05-30 |
+| 1 | [Two Sum](problems/001-two-sum.md) | Easy | Hash Map | 2026-05-30 |
+| 9 | [Palindrome Number](problems/009-palindrome-number.md) | Easy | String / Reverse Half | 2026-05-31 |
